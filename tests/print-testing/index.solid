@@ -1,0 +1,6 @@
+; print testing! 101
+
+print "this writes to the output"
+println "samething but writes it as a line"
+
+; very cool

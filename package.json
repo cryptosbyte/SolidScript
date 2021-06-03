@@ -1,0 +1,23 @@
+{
+  "name": "solidscript",
+  "version": "1.0.1-beta",
+  "description": "SolidScript Executor/Interpreter",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
+  },
+  "scripts": {
+    "start": "echo \"View the README.md, which contains all instruction. \"",
+    "install": "echo \"Installation Script is WIP\""
+  },
+  "keywords": [],
+  "author": "CryptosByte",
+  "license": "GNU"
+}

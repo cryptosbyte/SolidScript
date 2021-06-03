@@ -1,0 +1,9 @@
+ ; use entire system funcs
+
+; above me and under me is empty lines
+
+println 'hey love'
+exit 0 ; This exists the program
+
+    ; 0 = Success
+    ; 1 = Failure

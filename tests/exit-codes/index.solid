@@ -1,0 +1,9 @@
+; exits the program!
+
+println "hi"
+; ^ gets runned
+exit 0
+; sucess
+
+print ':('
+; exited so anything after isn't shown
