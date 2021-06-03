@@ -24,5 +24,5 @@ Once it's split, the interpreter checks the first index of the array (0), which 
 However the interpreter has a problem, it has a second index of the array (`\"SolidScript Is Awesome!\"`) so what should it do with it? It removes the first and last quotes (by confirming if the first and last char are equal quotes) and is then written to the output, which the console/terminal.
 
 ### INSTALLATION GUIDE IS COMING SOON!
-### SOLIDSCRIPT IS WORK IN PROGRESS!
-### NEXT UPDATE WILL BE COOL AS HECK!
+### SOLIDSCRIPT IS STILL WORK IN PROGRESS!
+### NEXT UPDATE WILL ALSO BE COOL AS HECK!

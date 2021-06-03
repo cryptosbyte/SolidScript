@@ -1,0 +1,4 @@
+var myStr = "hello"
+var myBool = false
+var myBool2 = true
+var myInt = 69

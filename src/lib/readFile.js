@@ -20,7 +20,7 @@ module.exports = (fileToRead, flag, encoding) => {
                 } else arrayOfCode.push(line)
             });
         };
-        console.log(arrayOfCode);
+        // console.log(arrayOfCode);
         tokeniser(arrayOfCode);
     });
 };

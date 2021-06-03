@@ -1,6 +1,6 @@
 {
   "name": "solidscript",
-  "version": "1.0.1-beta",
+  "version": "1.0.2-beta",
   "description": "SolidScript Executor/Interpreter",
   "main": "index.js",
   "dependencies": {
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "echo \"View the README.md, which contains all instruction. \"",
-    "install": "echo \"Installation Script is WIP\""
+    "install-locally": "echo \"Installation Script is WIP\""
   },
   "keywords": [],
   "author": "CryptosByte",

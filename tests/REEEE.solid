@@ -1,9 +1,3 @@
- ; use entire system funcs
+var myvar = "MY GOD!"
 
-; above me and under me is empty lines
-
-println 'hey love'
-exit 0 ; This exists the program
-
-    ; 0 = Success
-    ; 1 = Failure
+; %myvar
